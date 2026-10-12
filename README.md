@@ -75,3 +75,26 @@ npm run test
 ## Submission
 Once the lab is complete, all tests are passing, and you've pushed the completed code to 
 your forked repo on GitHub, submit your GitHub repo through Canvas using CodeGrade.
+
+
+
+==========================
+RANDOM DOG IMAGE GENERATOR
+==========================
+
+**Project Screenshot**
+![Project Screenshot](project_screenshot/screenshot.png)
+
+==============
+  HOW TO USE
+==============
+1. Fork and Clone repository and open in your preferred IDE
+2. Run `` npm install 
+3. Run `` npm run dev
+4. Open terminal link to your browser environment
+
+All functionality for this app was created within the App.jsx
+
+code includes an API GET Fetch request to a random dog image generator.
+code for error handling and loading message is included.
+code can be easily modified to add images to an array and displayed as a list if needed. 
